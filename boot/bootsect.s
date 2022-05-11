@@ -1,4 +1,4 @@
-	.code16
+.code16
 # rewrite with AT&T syntax by falcon <wuzhangjin@gmail.com> at 081012
 #
 # SYS_SIZE is the number of clicks (16 bytes) to be loaded.

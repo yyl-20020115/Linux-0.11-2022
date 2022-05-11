@@ -1,6 +1,7 @@
 Thumbs.db
 *.log
 *.bak
+*.o
 .DS_Store
 hdc-0.11.img
 boot/setup
