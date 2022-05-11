@@ -1,3 +1,12 @@
+What's new:
+compilied by gcc-9.4, works on Ubuntu-20.04, 
+supports qemu-system-x86_64 as well as bochs-2.7
+
+Bset Regards,
+Yilin
+
+
+
 Linux-0.11
 ==========
 
